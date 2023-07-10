@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15338" started-at="2023-07-10T04:40:36Z" finished-at="2023-07-10T04:40:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15338" started-at="2023-07-10T04:40:36Z" finished-at="2023-07-10T04:40:52Z">
+      <class name="com.hyr.Tests.FirstTest">
+        <test-method status="PASS" signature="TestGoogle()[pri:0, instance:com.hyr.Tests.FirstTest@675d3402]" name="TestGoogle" duration-ms="15267" started-at="2023-07-10T10:10:37Z" finished-at="2023-07-10T10:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGoogle -->
+      </class> <!-- com.hyr.Tests.FirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
